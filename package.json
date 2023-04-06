@@ -2,20 +2,20 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://github.com/dddddessss/sass_chocolate",
+  "homepage": "https://goitacademy.github.io/sass_chocolate",
   "scripts": {
-    "dev": "parcel src/*.html",
+    "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /sass_chocolate/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dddddessss/sass_chocolate.git"
+    "url": "git+https://github.com/dddddessss/sass_chocolate/"
   },
   "keywords": [],
-  "author": "OP Des.petrov@gmail.com>",
+  "author": "OP des.petrov@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/dddddessss/sass_chocolate/issues"
+    "url": "https://github.com/dddddessss/sass_chocolate//issues"
   },
   "dependencies": {
     "modern-normalize": "^1.1.0"
