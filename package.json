@@ -4,7 +4,7 @@
   "description": "",
   "homepage": "https://github.com/dddddessss/sass_chocolate",
   "scripts": {
-    "start": "parcel src/*.html",
+    "dev": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /sass_chocolate/"
   },
   "repository": {
